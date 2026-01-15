@@ -18,3 +18,4 @@ HTML/JavaScript project to GitHub Pages if all checks pass.
 - GitHub Actions
 - GitHub Pages
 - ESLint
+
