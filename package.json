@@ -1,0 +1,11 @@
+{
+  "name": "deployment-pipeline",
+  "version": "1.0.0",
+  "description": "Auto deploy HTML/JS project using GitHub Actions",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
